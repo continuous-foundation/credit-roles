@@ -6,7 +6,7 @@
     "CREDIT",
     "Open Science"
   ],
-  "author": "Rowan Cockett <rowan@curvenote.com>",
+  "author": "Rowan Cockett <rowan@continuous.foundation>",
   "license": "MIT",
   "sideEffects": false,
   "type": "module",
@@ -18,13 +18,13 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/curvenote/credit-roles",
+  "homepage": "https://github.com/continuous-foundation/credit-roles",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/curvenote/credit-roles.git"
+    "url": "git+https://github.com/continuous-foundation/credit-roles.git"
   },
   "bugs": {
-    "url": "https://github.com/curvenote/credit-roles/issues"
+    "url": "https://github.com/continuous-foundation/credit-roles/issues"
   },
   "scripts": {
     "prepublishOnly": "npm run build && npm run test",
